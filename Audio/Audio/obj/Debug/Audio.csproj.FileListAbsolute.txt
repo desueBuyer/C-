@@ -1,0 +1,10 @@
+C:\Users\Alim\source\repos\Audio\Audio\bin\Debug\Audio.exe.config
+C:\Users\Alim\source\repos\Audio\Audio\bin\Debug\Audio.exe
+C:\Users\Alim\source\repos\Audio\Audio\bin\Debug\Audio.pdb
+C:\Users\Alim\source\repos\Audio\Audio\bin\Debug\NAudio.dll
+C:\Users\Alim\source\repos\Audio\Audio\bin\Debug\NAudio.xml
+C:\Users\Alim\source\repos\Audio\Audio\obj\Debug\Audio.csprojAssemblyReference.cache
+C:\Users\Alim\source\repos\Audio\Audio\obj\Debug\Audio.csproj.CoreCompileInputs.cache
+C:\Users\Alim\source\repos\Audio\Audio\obj\Debug\Audio.csproj.CopyComplete
+C:\Users\Alim\source\repos\Audio\Audio\obj\Debug\Audio.exe
+C:\Users\Alim\source\repos\Audio\Audio\obj\Debug\Audio.pdb
