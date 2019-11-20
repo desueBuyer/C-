@@ -1,0 +1,10 @@
+C:\Users\Alim\source\repos\NewImage\NewImage\bin\Debug\NewImage.exe.config
+C:\Users\Alim\source\repos\NewImage\NewImage\bin\Debug\NewImage.exe
+C:\Users\Alim\source\repos\NewImage\NewImage\bin\Debug\NewImage.pdb
+C:\Users\Alim\source\repos\NewImage\NewImage\obj\Debug\NewImage.csprojAssemblyReference.cache
+C:\Users\Alim\source\repos\NewImage\NewImage\obj\Debug\NewImage.Form1.resources
+C:\Users\Alim\source\repos\NewImage\NewImage\obj\Debug\NewImage.Properties.Resources.resources
+C:\Users\Alim\source\repos\NewImage\NewImage\obj\Debug\NewImage.csproj.GenerateResource.cache
+C:\Users\Alim\source\repos\NewImage\NewImage\obj\Debug\NewImage.csproj.CoreCompileInputs.cache
+C:\Users\Alim\source\repos\NewImage\NewImage\obj\Debug\NewImage.exe
+C:\Users\Alim\source\repos\NewImage\NewImage\obj\Debug\NewImage.pdb
