@@ -1,0 +1,6 @@
+C:\Users\Игорь\source\repos\VectorLibrary\bin\Debug\VectorLibrary.dll
+C:\Users\Игорь\source\repos\VectorLibrary\bin\Debug\VectorLibrary.pdb
+C:\Users\Игорь\source\repos\VectorLibrary\obj\Debug\VectorLibrary.csprojAssemblyReference.cache
+C:\Users\Игорь\source\repos\VectorLibrary\obj\Debug\VectorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\VectorLibrary\obj\Debug\VectorLibrary.dll
+C:\Users\Игорь\source\repos\VectorLibrary\obj\Debug\VectorLibrary.pdb
