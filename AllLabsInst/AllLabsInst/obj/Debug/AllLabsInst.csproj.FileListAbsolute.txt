@@ -1,0 +1,10 @@
+C:\Users\Alim\source\repos\AllLabsInst\AllLabsInst\bin\Debug\AllLabsInst.exe.config
+C:\Users\Alim\source\repos\AllLabsInst\AllLabsInst\bin\Debug\AllLabsInst.exe
+C:\Users\Alim\source\repos\AllLabsInst\AllLabsInst\bin\Debug\AllLabsInst.pdb
+C:\Users\Alim\source\repos\AllLabsInst\AllLabsInst\obj\Debug\AllLabsInst.csprojAssemblyReference.cache
+C:\Users\Alim\source\repos\AllLabsInst\AllLabsInst\obj\Debug\AllLabsInst.Form1.resources
+C:\Users\Alim\source\repos\AllLabsInst\AllLabsInst\obj\Debug\AllLabsInst.Properties.Resources.resources
+C:\Users\Alim\source\repos\AllLabsInst\AllLabsInst\obj\Debug\AllLabsInst.csproj.GenerateResource.cache
+C:\Users\Alim\source\repos\AllLabsInst\AllLabsInst\obj\Debug\AllLabsInst.csproj.CoreCompileInputs.cache
+C:\Users\Alim\source\repos\AllLabsInst\AllLabsInst\obj\Debug\AllLabsInst.exe
+C:\Users\Alim\source\repos\AllLabsInst\AllLabsInst\obj\Debug\AllLabsInst.pdb
